@@ -1,0 +1,7 @@
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\Console Hola Mundo\bin\Debug\Console Hola Mundo.exe.config
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\Console Hola Mundo\bin\Debug\Console Hola Mundo.exe
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\Console Hola Mundo\bin\Debug\Console Hola Mundo.pdb
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\Console Hola Mundo\obj\Debug\Console Hola Mundo.csprojAssemblyReference.cache
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\Console Hola Mundo\obj\Debug\Console Hola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\Console Hola Mundo\obj\Debug\Console Hola Mundo.exe
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\Console Hola Mundo\obj\Debug\Console Hola Mundo.pdb

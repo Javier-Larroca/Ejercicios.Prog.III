@@ -1,0 +1,10 @@
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\WinForm Hola Mundo\bin\Debug\WinForm Hola Mundo.exe.config
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\WinForm Hola Mundo\bin\Debug\WinForm Hola Mundo.exe
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\WinForm Hola Mundo\bin\Debug\WinForm Hola Mundo.pdb
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\WinForm Hola Mundo\obj\Debug\WinForm Hola Mundo.csprojAssemblyReference.cache
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\WinForm Hola Mundo\obj\Debug\WinForm_Hola_Mundo.Properties.Resources.resources
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\WinForm Hola Mundo\obj\Debug\WinForm Hola Mundo.csproj.GenerateResource.cache
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\WinForm Hola Mundo\obj\Debug\WinForm Hola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\WinForm Hola Mundo\obj\Debug\WinForm Hola Mundo.exe
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\WinForm Hola Mundo\obj\Debug\WinForm Hola Mundo.pdb
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier Hola Mundo\WinForm Hola Mundo\obj\Debug\WinForm_Hola_Mundo.Form1.resources

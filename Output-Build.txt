@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Ejemplo1, Configuration: Debug Any CPU ------
+1>C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier LaSintaxis\Ejemplo1\Program.cs(22,52,22,52): error CS1002: ; expected
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

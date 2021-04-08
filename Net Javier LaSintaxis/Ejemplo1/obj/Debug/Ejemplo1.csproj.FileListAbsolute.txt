@@ -1,0 +1,7 @@
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier LaSintaxis\Ejemplo1\obj\Debug\Ejemplo1.csprojAssemblyReference.cache
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier LaSintaxis\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier LaSintaxis\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier LaSintaxis\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier LaSintaxis\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier LaSintaxis\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net Javier LaSintaxis\Ejemplo1\obj\Debug\Ejemplo1.pdb
