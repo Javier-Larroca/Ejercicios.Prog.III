@@ -44,9 +44,9 @@ namespace Ejercicio_Forms1
             //Se imprimen los datos en el cuadro de texto inferior.
             if(!(textApellido.Text == "" || textNombre.Text == "" || textEdad.Text == "" || textDireccion.Text == ""))
             {
-                textResultado.Text = "Apellido y nombre: " + textApellido + " " + textNombre;
-                textResultado.Text += "\r\n" + "Edad: " + textEdad;
-                textResultado.Text += "\r\n" + "Dirección: " + textDireccion;
+                textResultado.Text = "Apellido y nombre: " + textApellido.Text + " " + textNombre.Text;
+                textResultado.Text += "\r\n" + "Edad: " + textEdad.Text;
+                textResultado.Text += "\r\n" + "Dirección: " + textDireccion.Text;
 
             }
 

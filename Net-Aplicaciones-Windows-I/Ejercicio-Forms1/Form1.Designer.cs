@@ -122,6 +122,7 @@ namespace Ejercicio_Forms1
             // 
             // textResultado
             // 
+            this.textResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textResultado.Location = new System.Drawing.Point(15, 173);
             this.textResultado.Multiline = true;
             this.textResultado.Name = "textResultado";
