@@ -120,7 +120,7 @@ namespace Ejercitacion
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(19, 205);
+            this.label2.Location = new System.Drawing.Point(19, 189);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(39, 13);
             this.label2.TabIndex = 6;
@@ -128,17 +128,17 @@ namespace Ejercitacion
             // 
             // textSalida
             // 
-            this.textSalida.Location = new System.Drawing.Point(19, 222);
+            this.textSalida.Location = new System.Drawing.Point(19, 206);
             this.textSalida.Multiline = true;
             this.textSalida.Name = "textSalida";
-            this.textSalida.Size = new System.Drawing.Size(403, 105);
+            this.textSalida.Size = new System.Drawing.Size(407, 105);
             this.textSalida.TabIndex = 7;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(575, 339);
+            this.ClientSize = new System.Drawing.Size(550, 327);
             this.Controls.Add(this.textSalida);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.groupBox);
