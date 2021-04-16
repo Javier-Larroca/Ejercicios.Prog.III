@@ -2,9 +2,9 @@ C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicacio
 C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicaciones-Windows-III\Ejercitacion9\bin\Debug\Ejercitacion9.exe
 C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicaciones-Windows-III\Ejercitacion9\bin\Debug\Ejercitacion9.pdb
 C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicaciones-Windows-III\Ejercitacion9\obj\Debug\Ejercitacion9.csprojAssemblyReference.cache
-C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicaciones-Windows-III\Ejercitacion9\obj\Debug\Ejercitacion9.Form1.resources
 C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicaciones-Windows-III\Ejercitacion9\obj\Debug\Ejercitacion9.Properties.Resources.resources
 C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicaciones-Windows-III\Ejercitacion9\obj\Debug\Ejercitacion9.csproj.GenerateResource.cache
 C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicaciones-Windows-III\Ejercitacion9\obj\Debug\Ejercitacion9.csproj.CoreCompileInputs.cache
 C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicaciones-Windows-III\Ejercitacion9\obj\Debug\Ejercitacion9.exe
 C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicaciones-Windows-III\Ejercitacion9\obj\Debug\Ejercitacion9.pdb
+C:\Users\javie\Documents\UTN\Programacion III\Ejercicios Prog. III\Net-Aplicaciones-Windows-III\Ejercitacion9\obj\Debug\Ejercitacion9.formListView.resources
